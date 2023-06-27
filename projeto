@@ -1,0 +1,47 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Primeiros Passos com HTML</title>
+</head>
+<body>
+    <h1>Módulo 1 - Primeiros Passos com HTML</h1>
+    <h2>Índice</h2>
+    <ul>
+        <li><a href="#historia dos computadores">História dos computadores</a></li>
+        <li><a href="#Navegadores">O que são <u>Navegadores</u>?</a></li>
+        <li><a href="#Um pouco sobre disposistivos">Um pouco sobre disposistivos moveis </a></li>
+        <li><a href="#Como é uma estrutura básica de um HTML?">Como é uma estrutura básica de um HTML?</a></li>
+        <li><a href="#Entendendo um pouco sobre server-side">Entendendo um pouco sobre server-side</a></li>
+        
+    </ul>
+
+    <h2 id="historia dos computadores"></h2> <h2>História dos computadores </h2>
+    <p>A história dos computadores remonta a milhares de anos, desde as primeiras invenções e dispositivos rudimentares até os avanços tecnológicos que levaram aos computadores modernos de hoje. 
+     <strong>negrito</strong>, <i>itálico</i> e <u>sublinhado</u> quando necessário.</p>
+
+    <h2 id="Navegadores"></h2> <h2> que são <i>Navegadores</i>?</h2>
+     <p><strong>Navegadores</strong>, também conhecidos como web browsers, são aplicativos de software que permitem aos usuários acessar e visualizar páginas da web. Eles são projetados para interpretar e exibir conteúdo <mark>HTML, CSS e JavaScript,</mark> permitindo a interação com elementos da web, como links, formulários, imagens, vídeos e outros recursos.
+   
+    <h2 id="Um pouco sobre disposistivos"></h2> <h2><i>Um pouco sobre disposistivos moveis</i>?</h2>
+    Dispositivos móveis são dispositivos eletrônicos portáteis que permitem que os usuários acessem informações, realizem tarefas e se comuniquem enquanto estão em movimento. Esses dispositivos são projetados para serem leves, compactos e facilmente transportáveis, proporcionando mobilidade e conveniência aos usuários. <u>Os principais tipos de dispositivos móveis são smartphones e tablets</u>, mas também incluem outros dispositivos como laptops, smartwatches e dispositivos de realidade virtual.
+
+    <h2 id= "Como é uma estrutura básica de um HTML?"></h2> <h2>Como é uma estrutura básica de um HTML?</h2>
+    A estrutura básica de um documento <u>HTML</u> (Hypertext Markup Language) consiste em elementos que fornecem informações sobre a estrutura e o conteúdo da página.
+   
+
+    <h2 id="Entendendo um pouco sobre server-side"></h2> <h2>Entendendo um pouco sobre server-side</h2>
+    <strong>As linguagens server-side são linguagens que o SERVIDOR</strong> (lado do servidor) entende, ou seja, aplicações que rodam no servidor. Isso quer dizer que você vai escrever um código onde o servidor vai processá-lo e então vai mandar para o seu navegador a resposta.
+
+    <h2>Links de referências</h2>
+    <ul>
+        <li><a href="https://www.todamateria.com.br/historia-e-evolucao-dos-computadores/"target="_blank"><strong>Historias dos computadores</strong></a></li>
+        <li><a href="https://www.oficinadanet.com.br/internet/30735-10-navegadores-mais-usados-no-mundo"target="_blank"><strong>Navegadores</strong> </a></li>
+        <li><a href="http://www.nuted.ufrgs.br/oa/edumobile/m1_dm.html"target="_blank"> <strong>Um pouco sobre disposistivos</strong> </a></li>
+        <li><a href="https://tableless.github.io/iniciantes/manual/html/estruturabasica.html"target="_blank"> <strong>Como é estrutura basica de HTML</strong></a></li>
+        <li><a href="https://www.gigasystems.com.br/artigo/60/client-side-e-server-side#:~:text=As%20linguagens%20server%2Dside%20s%C3%A3o,o%20seu%20navegador%20a%20resposta"target="_blank"> <strong>server side.</strong></a></li>
+    </ul>
+
+</body>
+</html>
