@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Utilizar como modelo</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <font color="black" face="Talahoma"> </font>
+    <div class="wrapper">
+        <div class="menu">
+          
+            <ul>
+                <li><a style="font-family: Verdana; font-size: large" href="#Minha clinica hospitalar">Minha clinica</a></li>
+                <li><a style="font-family: Verdana; font-size: lerge;"href="#contato">Informaçoes</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <img src="clinica.jpg" style="width: 1000px; height: 280px;">
+            </div>
+    
+            <div class="content">
+                 <p> Nossa clínica hospitalar oferece uma série de benefícios aos pacientes. Aqui estão alguns dos principais benefícios que nossa clínica oferece:
+
+                    <i><u>Profissionais altamente qualificados</u></i>: Nossa equipe médica e de saúde é composta por profissionais altamente qualificados, experientes e dedicados. Eles possuem amplo conhecimento e expertise em suas respectivas áreas, garantindo um atendimento de qualidade aos pacientes.
+                    
+                    <i><u>Atendimento abrangente</u></i>: Nossa clínica oferece uma ampla gama de serviços de saúde e tratamentos médicos. Desde consultas médicas e exames de diagnóstico até cirurgias e reabilitação, nos esforçamos para fornecer um atendimento abrangente e completo para atender às necessidades dos pacientes.Tecnologia avançada: Investimos em tecnologia médica avançada e equipamentos de última geração. Isso nos permite oferecer diagnósticos precisos, tratamentos eficazes e procedimentos médicos de ponta. A tecnologia avançada também nos ajuda a proporcionar um ambiente seguro e confortável para os pacientes.
+
+                    <i><u>Atendimento personalizado</u></i>: Reconhecemos que cada paciente é único, com necessidades e preocupações individuais. Portanto, nos esforçamos para oferecer um atendimento personalizado, levando em consideração as circunstâncias específicas de cada paciente. Nosso objetivo é garantir que cada pessoa receba o tratamento adequado e seja ouvida em suas preocupações.
+                    
+                    <i><u>Abordagem centrada no paciente</u></i>: Colocamos o paciente no centro de nossos cuidados</p>
+            </div>
+    
+            <div class="footer">
+                <h1 id="contato" style="text-align: center">Telefone: 2180028922</h1>
+                <h2 style="text-align: center">Email:@clinica</h2>
+                <p style="text-align: center;"><i>Nossa clinica de alta qualidade</i>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
