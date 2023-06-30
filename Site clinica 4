@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Utilizar como modelo</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <font color="black" face="Talahoma"> </font>
+    <div class="wrapper">
+        <div class="menu">
+          
+            <ul>
+                <li><a style="font-family: Verdana; font-size: large" href="#tabela">Horarios</a></li>
+                <li><a style="font-family: Verdana; font-size: lerge;"href="#contato">Informaçoes</a></li>
+                
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <img src="3.jpg" style="width: 1000px; height: 280px;">
+            </div>
+    
+                <div class="content">
+                    <h1 id="tabela"> Tabela de horarios </h1><br>
+                    <table border="1" width="500"> 
+                        <tr>
+                            <th>Serviços</th>
+                            <th>Segunda a sexta</th>
+                            <th>Sabados</th>
+                            <th>Feriados</th>
+                        </tr>
+                        <tr> 
+                            <td>clinica geral</td>
+                            <td>08h-19h</td>
+                            <td>08h-14h</td>
+                            <td>08h-14h</td>
+                        
+                        </tr>
+                        <tr>
+                            <td>psicologia</td>
+                            <td>08h-19h</td>
+                            <td>08h-18h</td>
+                            <td>08h-14h</td>
+                        </tr>
+                        <tr>
+                            <td>pediatria</td>
+                            <td>08h-19h</td>
+                            <td>08h-19h</td>
+                        </tr>
+                        <tr>
+                            <td>Oftalmologia</td>
+                            <td>08h-19h</td>
+                            <td>08-18h</td>
+                        </tr>
+                        </table>
+
+
+            </div>
+    
+            <div class="footer">
+                <h1 id="contato" style="text-align: center">Telefone: 2180028922</h1>
+                <h2 style="text-align: center">Email:@clinica</h2>
+                <p style="text-align: center;"><i>Nossa clinica de alta qualidade</i>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
